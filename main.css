@@ -1,0 +1,12 @@
+@import url( 'https://fonts.googleapis.com/css?family=Coiny');
+
+* {
+  font-family: Coiny, Arial, serif;
+  text-align: center;
+}
+
+div {
+  color: #567;
+  text-transform: capitalize;
+  font-size: 20px;
+}
